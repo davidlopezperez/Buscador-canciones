@@ -45,7 +45,7 @@ const Formulario = ({guardarBusquedaLetra, guardarCargando}) => {
     
     return ( 
 
-        <div className="bg-info"> 
+        <div className="form"> 
             <div className="container">
             
                 <div className="row">

@@ -24,9 +24,11 @@ const Footer = () => {
                                 <i className="fa fa-instagram"></i>
                             </a>
                         </li>
-
+                        
                     </ul>
-                    <p className="parrafo">David López</p>
+                    <div className="col-12 col-md-12 col-lg-12 col-sm-12" >
+                        <p className="parrafo">David López</p>
+                    </div>
                 </footer>
             </div>
             </div>
